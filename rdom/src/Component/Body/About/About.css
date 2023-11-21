@@ -1,0 +1,69 @@
+.bgimg1{
+    background-image: url("../../../../public/pexels-wallace-chuck-4939936.jpg");
+    height:90vh; 
+    background-size: cover;
+}
+.cntnt h1{
+    color: rgb(244, 113, 13);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding-top: 3%;
+}
+.cntnt p{
+    color: white;
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+}
+.hd h2{
+    color: rgb(46, 109, 111);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    margin-top:2% ;
+    letter-spacing: 2px;
+}
+.images1{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    gap: 10px;
+    padding: 10px;
+}
+.images1 img{
+    width: 33%;
+}
+.images2{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    gap: 10px;
+    padding: 10px;
+}
+.images2 img{
+    width: 33%;
+}
+.images3{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    gap: 10px;
+    padding: 10px;
+}
+.images3 img{
+    width: 33%;
+}
+.images4{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    gap: 10px;
+    padding: 10px;
+}
+.images4 img{
+    width: 33%;
+}
